@@ -13,7 +13,7 @@ public class App {
 
     // Resta de dos números
     public static int resta(int a, int b) {
-        return 0;
+        return a - b;
     }
 
     // Multiplicación de dos números
@@ -138,6 +138,7 @@ public class App {
     // Encontrar la mediana de un array
     public static double medianaArray(int[] array) {
         ordenarArray(array);
+        return()
     }
 
     // Calcular la desviación estándar de un array
